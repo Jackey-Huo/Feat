@@ -1,3 +1,4 @@
+
 # Feat: a one-shop health meal app
 
 Feat is a one-shop health meal app template.
@@ -6,11 +7,11 @@ Feat is a one-shop health meal app template.
 
 Navigation
 
-<img src="images/navgition.png" alt="Navigation" style="width:304px;">
+<img src="navgition.png" alt="Navigation" style="width:200px;">
 
 Fitness record
 
-<img src="images/fitness_record.jpg" alt="sport record" style="width:304px;">
+<img src="fitness_record.jpg" alt="sport record" style="width:200px;">
 
 
 # Install
