@@ -4,17 +4,13 @@ Feat is a one-shop health meal app template.
 
 # A glance
 
-Feat Daily News
-
-![Feat Daily News](images/feat_daily_news.png)
-
 Navigation
 
-![Navigation](images/navgition.png)
+<img src="images/navgition.png" alt="Navigation" style="width:304px;">
 
 Fitness record
 
-![fitness record](images/fitness_record.jpg)
+<img src="images/fitness_record.jpg" alt="sport record" style="width:304px;">
 
 
 # Install
