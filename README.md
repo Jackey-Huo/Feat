@@ -7,7 +7,7 @@ Feat is a one-shop health meal app template.
 
 Navigation
 
-<img src="https://raw.githubusercontent.com/Jackey-Huo/Feat/master/images/navgition.png" alt="Navigation" style="width:200px;">
+<img src="https://raw.githubusercontent.com/Jackey-Huo/Feat/master/images/navigation.png" alt="Navigation" style="width:200px;">
 
 Fitness record
 
