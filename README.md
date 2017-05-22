@@ -11,7 +11,7 @@ Navigation
 
 Fitness record
 
-<img src="images/fitness_record.jpg" alt="sport record" style="width:200px;">
+<img src="https://raw.githubusercontent.com/Jackey-Huo/Feat/master/images/fitness_record.jpg" alt="sport record" style="width:200px;">
 
 
 # Install
