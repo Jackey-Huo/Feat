@@ -2576,4 +2576,9 @@ input.checkbox:checked:after {
 	.reservation {
 		background-position:-200px 0px;
 	}
+    .map {
+        width:100%;
+        height:100%;
+        overflow:hidden;
+    }
 }
